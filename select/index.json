@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誰ガ為ノ世界",
+  "base_artist": "志方あきこ",
+  "createdAt": "2026-01-10T17:55:41.714036Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰ガ為ノ世界",
+      "artist": "志方 あきこ",
+      "has_synced": false,
+      "path": "select/pl_01_誰ガ為ノ世界_志方_あきこ.txt"
+    }
+  ]
+}
